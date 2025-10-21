@@ -28,6 +28,13 @@ pip install -e .
 pytest
 ```
 
+## Running in Google Colab
+
+Want to try the planners without setting up a local environment? Follow the
+[Google Colab quickstart](docs/colab.md) for step-by-step instructions, including
+commands you can copy into a Colab notebook to install the package, clone the
+repository, and execute the demo script.
+
 ## Next steps
 
 The current implementation is intentionally lightweight. Replace the stubs with
